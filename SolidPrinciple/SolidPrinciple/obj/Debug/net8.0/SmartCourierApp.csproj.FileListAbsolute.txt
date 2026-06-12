@@ -1,0 +1,14 @@
+C:\Users\gnane\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\net8.0\SmartCourierApp.exe
+C:\Users\gnane\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\net8.0\SmartCourierApp.deps.json
+C:\Users\gnane\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\net8.0\SmartCourierApp.runtimeconfig.json
+C:\Users\gnane\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\net8.0\SmartCourierApp.dll
+C:\Users\gnane\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\net8.0\SmartCourierApp.pdb
+C:\Users\gnane\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net8.0\SmartCourierApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnane\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net8.0\SmartCourierApp.AssemblyInfoInputs.cache
+C:\Users\gnane\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net8.0\SmartCourierApp.AssemblyInfo.cs
+C:\Users\gnane\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net8.0\SmartCourierApp.csproj.CoreCompileInputs.cache
+C:\Users\gnane\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net8.0\SmartCourierApp.dll
+C:\Users\gnane\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net8.0\refint\SmartCourierApp.dll
+C:\Users\gnane\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net8.0\SmartCourierApp.pdb
+C:\Users\gnane\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net8.0\SmartCourierApp.genruntimeconfig.cache
+C:\Users\gnane\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net8.0\ref\SmartCourierApp.dll
