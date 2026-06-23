@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|c:\\users\\gnane\\source\\repos\\employeeleaverequestapi\\employeeleaverequestapi\\services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|solutionrelative:employeeleaverequestapi\\services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|c:\\users\\gnane\\source\\repos\\employeeleaverequestapi\\employeeleaverequestapi\\controllers\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|solutionrelative:employeeleaverequestapi\\controllers\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|c:\\users\\gnane\\source\\repos\\employeeleaverequestapi\\employeeleaverequestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|solutionrelative:employeeleaverequestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|c:\\users\\gnane\\source\\repos\\employeeleaverequestapi\\employeeleaverequestapi\\services\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|solutionrelative:employeeleaverequestapi\\services\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|c:\\users\\gnane\\source\\repos\\employeeleaverequestapi\\employeeleaverequestapi\\validations\\validleavetypeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|solutionrelative:employeeleaverequestapi\\validations\\validleavetypeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|c:\\users\\gnane\\source\\repos\\employeeleaverequestapi\\employeeleaverequestapi\\dtos\\leaverequestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|solutionrelative:employeeleaverequestapi\\dtos\\leaverequestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|c:\\users\\gnane\\source\\repos\\employeeleaverequestapi\\employeeleaverequestapi\\dtos\\leaverequestcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|solutionrelative:employeeleaverequestapi\\dtos\\leaverequestcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|c:\\users\\gnane\\source\\repos\\employeeleaverequestapi\\employeeleaverequestapi\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|solutionrelative:employeeleaverequestapi\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|c:\\users\\gnane\\source\\repos\\employeeleaverequestapi\\employeeleaverequestapi\\employeeleaverequestapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{616A5F00-81CF-1980-9DDF-DF03CA59A77B}|EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj|solutionrelative:employeeleaverequestapi\\employeeleaverequestapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\Controllers\\LeaveRequestsController.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveRequestAPI\\Controllers\\LeaveRequestsController.cs",
+              "ToolTip": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\Controllers\\LeaveRequestsController.cs",
+              "RelativeToolTip": "EmployeeLeaveRequestAPI\\Controllers\\LeaveRequestsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvysAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:21:02.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveRequestAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\Program.cs",
+              "RelativeToolTip": "EmployeeLeaveRequestAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:08:54.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILeaveRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\Services\\ILeaveRequestService.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveRequestAPI\\Services\\ILeaveRequestService.cs",
+              "ToolTip": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\Services\\ILeaveRequestService.cs",
+              "RelativeToolTip": "EmployeeLeaveRequestAPI\\Services\\ILeaveRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:47:46.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaveRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\Services\\LeaveRequestService.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveRequestAPI\\Services\\LeaveRequestService.cs",
+              "ToolTip": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\Services\\LeaveRequestService.cs",
+              "RelativeToolTip": "EmployeeLeaveRequestAPI\\Services\\LeaveRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:46:23.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidLeaveTypeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\Validations\\ValidLeaveTypeAttribute.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveRequestAPI\\Validations\\ValidLeaveTypeAttribute.cs",
+              "ToolTip": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\Validations\\ValidLeaveTypeAttribute.cs",
+              "RelativeToolTip": "EmployeeLeaveRequestAPI\\Validations\\ValidLeaveTypeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:40:17.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveRequestCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\DTOs\\LeaveRequestCreateDto.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveRequestAPI\\DTOs\\LeaveRequestCreateDto.cs",
+              "ToolTip": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\DTOs\\LeaveRequestCreateDto.cs",
+              "RelativeToolTip": "EmployeeLeaveRequestAPI\\DTOs\\LeaveRequestCreateDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:29:52.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveRequestResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\DTOs\\LeaveRequestResponseDto.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveRequestAPI\\DTOs\\LeaveRequestResponseDto.cs",
+              "ToolTip": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\DTOs\\LeaveRequestResponseDto.cs",
+              "RelativeToolTip": "EmployeeLeaveRequestAPI\\DTOs\\LeaveRequestResponseDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:28:57.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveRequestAPI\\Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "EmployeeLeaveRequestAPI\\Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:27:52.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeLeaveRequestAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj",
+              "RelativeDocumentMoniker": "EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj",
+              "ToolTip": "C:\\Users\\gnane\\source\\repos\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj",
+              "RelativeToolTip": "EmployeeLeaveRequestAPI\\EmployeeLeaveRequestAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-12T21:26:20.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
