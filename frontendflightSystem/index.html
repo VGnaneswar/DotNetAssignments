@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!doctype html>
 <html lang="en">
   <head>
@@ -52,3 +53,59 @@
     </main>
   </body>
 </html>
+=======
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sky Harbor Departures Board</title>
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="script.js"></script>
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="status-board" aria-label="Departures board demo">
+        <div class="top-line">
+          <p class="location-line">LIVE · SKY HARBOR INTL · TERMINAL 4</p>
+          <div class="clock-block" aria-live="polite">
+            <div class="clock" id="clock">00:00:00</div>
+            <p class="clock-caption">LOCAL TIME </p>
+          </div>
+        </div>
+
+        <div class="title-row">
+          <h1>Departures</h1>
+          <p class="subtitle" id="summary">0 departures · 0 boarding · 0 delayed</p>
+        </div>
+
+        <div class="board-frame">
+          <div class="board-shell">
+            <div class="board-head" aria-hidden="true">
+              <div>Time</div>
+              <div>Flight</div>
+              <div>Destination</div>
+              <div>Gate</div>
+              <div>Status</div>
+            </div>
+            <div class="board" id="board"></div>
+          </div>
+        </div>
+
+        <div class="controls" aria-label="Board controls">
+          <button type="button" id="addFlightButton">+ Add Departure</button>
+          <button type="button" class="secondary" id="resetButton">Reset Board</button>
+        </div>
+
+        <div class="legend" aria-label="Status legend">
+          <span><i class="dot on-time"></i>ON TIME</span>
+          <span><i class="dot boarding"></i>BOARDING</span>
+          <span><i class="dot delayed"></i>DELAYED</span>
+          <span><i class="dot gate-closed"></i>GATE CLOSED</span>
+          <span><i class="dot departed"></i>DEPARTED</span>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
+>>>>>>> 187e23cf4a34dbddd9849334122b8fb248a5a8e3
